@@ -19,8 +19,6 @@ Sempre aprendendo, evoluindo e transformando ideias em soluções.
 ## 📊 Estatísticas
 
 
-## 📊 Estatísticas
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josemoraisrp&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 
