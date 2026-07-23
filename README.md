@@ -103,14 +103,7 @@ Projetos voltados para lógica de programação, DOM e interação com usuários
 
 </table>
 
-🔹 **RM Instalações Elétricas e CFTV** *(Em desenvolvimento)*  
-Website institucional desenvolvido para uma empresa de instalações elétricas e sistemas de segurança.
 
-🔹 **Landing Pages Responsivas**  
-Projetos desenvolvidos para praticar HTML, CSS e responsividade.
-
-🔹 **Projetos JavaScript**  
-Aplicações voltadas para lógica de programação e manipulação do DOM.
 
 ---
 
