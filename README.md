@@ -52,8 +52,56 @@ Meu objetivo é conquistar uma oportunidade como **Desenvolvedor Front-End Júni
 
 ## 📂 Projetos em Destaque
 
-🔹 **Compensa Álcool ou Gasolina**  
-Calculadora que auxilia motoristas na escolha entre álcool e gasolina.
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚗 Compensa Álcool ou Gasolina
+
+Calculadora desenvolvida em JavaScript que auxilia motoristas a decidir qual combustível oferece o melhor custo-benefício.
+
+🔗 **Acessar Projeto**
+
+https://josemoraisrp.github.io/compensa-lcool-gasolina/
+
+</td>
+
+<td width="50%">
+
+### ⚡ RM Instalações Elétricas
+
+Website institucional desenvolvido para uma empresa de instalações elétricas e CFTV.
+
+🔗 Em desenvolvimento
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Landing Pages
+
+Coleção de Landing Pages desenvolvidas durante os estudos de HTML e CSS.
+
+</td>
+
+<td width="50%">
+
+### 📚 Projetos JavaScript
+
+Projetos voltados para lógica de programação, DOM e interação com usuários.
+
+</td>
+
+</tr>
+
+</table>
 
 🔹 **RM Instalações Elétricas e CFTV** *(Em desenvolvimento)*  
 Website institucional desenvolvido para uma empresa de instalações elétricas e sistemas de segurança.
