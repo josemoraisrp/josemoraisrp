@@ -1,80 +1,71 @@
 <h1 align="center">👋 Olá! Eu sou o José Moraes</h1>
 
+<h3 align="center">
+💻 Desenvolvedor Front-End em formação
+</h3>
+
 <p align="center">
-  💻 <strong>Desenvolvedor Front-End em formação</strong><br>
-  Construindo projetos práticos com HTML, CSS, JavaScript e React, sempre buscando evoluir tecnicamente e desenvolver soluções úteis.
+Construindo projetos com HTML, CSS, JavaScript e React.
+<br>
+Sempre aprendendo, evoluindo e transformando ideias em soluções.
 </p>
 
 <p align="center">
-  🚀 Apaixonado por Tecnologia • Desenvolvimento Web • Aprendizado Contínuo
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemoraisrp&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemoraisrp&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=josemoraisrp&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=josemoraisrp&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Contador de visitas"/>
+🚀 Desenvolvimento Web • ☕ Aprendizado Contínuo • 💡 Código Limpo
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemoraisrp&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemoraisrp&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=josemoraisrp&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=josemoraisrp&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🚀 Sobre mim
 
 Sou um **Desenvolvedor Front-End em formação**, apaixonado por tecnologia e em constante evolução.
 
-Atualmente estudo **HTML, CSS, JavaScript, React, Node.js e Git**, desenvolvendo projetos para fortalecer minha base técnica e criar aplicações modernas e responsivas.
+Atualmente estudo **HTML, CSS, JavaScript, React, Node.js e Git**, aplicando esses conhecimentos em projetos práticos para fortalecer minha base técnica.
 
-Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Front-End Júnior ou Estagiário**, contribuindo com dedicação, aprendizado contínuo e boas práticas de desenvolvimento.
+Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Front-End Júnior ou Estagiário**, colaborando com equipes, aprendendo continuamente e desenvolvendo soluções de qualidade.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+# 🧰 Tecnologias
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
 | Projeto | Descrição |
-|---------|-----------|
-| 🚗 **Compensa Álcool ou Gasolina** | Calculadora desenvolvida com JavaScript para ajudar motoristas na escolha entre álcool e gasolina.<br><br>🌐 **Deploy:** https://josemoraisrp.github.io/compensa-lcool-gasolina/<br>📂 **Código:** https://github.com/josemoraisrp/compensa-lcool-gasolina |
-| 💼 **Meu Portfólio** | Portfólio pessoal desenvolvido para apresentar meus projetos, tecnologias e evolução como desenvolvedor.<br><br>🌐 **Deploy:** https://josemoraisrp.github.io/Portifolio_Jose/<br>📂 **Código:** https://github.com/josemoraisrp/Portifolio_Jose |
+|----------|-----------|
+| 🚗 **Compensa Álcool ou Gasolina** | Aplicação em JavaScript para auxiliar motoristas na escolha do combustível mais vantajoso.<br><br>🌐 **Demo:** https://josemoraisrp.github.io/compensa-lcool-gasolina/<br>📂 **Repositório:** https://github.com/josemoraisrp/compensa-lcool-gasolina |
+| 💼 **Meu Portfólio** | Site desenvolvido para apresentar minha trajetória, tecnologias e projetos.<br><br>🌐 **Demo:** https://josemoraisrp.github.io/Portifolio_Jose/<br>📂 **Repositório:** https://github.com/josemoraisrp/Portifolio_Jose |
 | ⚡ **RM Instalações Elétricas e CFTV** | Website institucional desenvolvido para uma empresa de instalações elétricas e sistemas de segurança. *(Em desenvolvimento)* |
 | 📚 **Projetos JavaScript** | Repositório com exercícios e aplicações voltadas para lógica de programação, DOM e JavaScript moderno. |
 
 ---
 
-## 📚 Atualmente estudando
+# 📖 Atualmente estudando
 
 - ✅ HTML5
 - ✅ CSS3
@@ -82,31 +73,37 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Fron
 - ✅ React
 - ✅ Node.js
 - ✅ Git e GitHub
-- ✅ Desenvolvimento Web
+- ✅ Consumo de APIs
 - ✅ Boas práticas de Front-End
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Objetivos
 
-- 🚀 Evoluir continuamente como Desenvolvedor Front-End.
-- 📚 Aprender novas tecnologias e boas práticas.
-- 💼 Conquistar minha primeira oportunidade na área de tecnologia.
-- 🤝 Contribuir para projetos reais e crescer profissionalmente.
+🎯 Conquistar minha primeira oportunidade como Desenvolvedor Front-End.
+
+📚 Evoluir constantemente como profissional.
+
+🚀 Construir aplicações cada vez mais completas.
+
+🤝 Contribuir para projetos reais e trabalhar em equipe.
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-<p align="left">
+<p align="center">
 
-💼 **LinkedIn**  
+💼 LinkedIn
+
 https://www.linkedin.com/in/jos%C3%A9-ap-moraes/
 
-🌐 **Portfólio**  
+🌐 Portfólio
+
 https://josemoraisrp.github.io/Portifolio_Jose/
 
-🐙 **GitHub**  
+🐙 GitHub
+
 https://github.com/josemoraisrp
 
 </p>
@@ -115,8 +112,8 @@ https://github.com/josemoraisrp
 
 <p align="center">
 
-⭐ **Obrigado por visitar meu perfil!**
+### ⭐ Obrigado pela visita!
 
-Sempre aberto para aprender, colaborar e construir soluções através da tecnologia.
+*"A tecnologia transforma ideias em soluções, e aprender continuamente é o primeiro passo dessa jornada."*
 
 </p>
