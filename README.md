@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou o José Moraes</h1>
 
 <p align="center">
-💻 <strong>Desenvolvedor Front-End em formação</strong><br>
-Construindo projetos práticos com HTML, CSS, JavaScript e React, sempre buscando evoluir tecnicamente e criar soluções úteis.
+  💻 <strong>Desenvolvedor Front-End em formação</strong><br>
+  Construindo projetos práticos com HTML, CSS, JavaScript e React, sempre buscando evoluir tecnicamente e desenvolver soluções úteis.
 </p>
 
 <p align="center">
-🚀 Apaixonado por tecnologia • Aprendizado contínuo • Código limpo
+  🚀 Apaixonado por Tecnologia • Desenvolvimento Web • Aprendizado Contínuo
 </p>
 
 ---
@@ -33,15 +33,15 @@ Construindo projetos práticos com HTML, CSS, JavaScript e React, sempre buscand
 
 Sou um **Desenvolvedor Front-End em formação**, apaixonado por tecnologia e em constante evolução.
 
-Atualmente estudo **HTML, CSS, JavaScript, React, Node.js e Git**, desenvolvendo projetos práticos para fortalecer minha base técnica e criar aplicações modernas e responsivas.
+Atualmente estudo **HTML, CSS, JavaScript, React, Node.js e Git**, desenvolvendo projetos para fortalecer minha base técnica e criar aplicações modernas e responsivas.
 
-Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Front-End Júnior ou Estagiário**, contribuindo com dedicação, aprendizado contínuo e código de qualidade.
+Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Front-End Júnior ou Estagiário**, contribuindo com dedicação, aprendizado contínuo e boas práticas de desenvolvimento.
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -67,10 +67,10 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Fron
 
 | Projeto | Descrição |
 |---------|-----------|
-| 🚗 **Compensa Álcool ou Gasolina** | Calculadora desenvolvida em JavaScript para auxiliar motoristas na escolha entre álcool e gasolina.<br><br>🌐 **Deploy:** https://josemoraisrp.github.io/compensa-lcool-gasolina/<br>📂 **Código:** https://github.com/josemoraisrp/compensa-lcool-gasolina |
-| ⚡ **RM Instalações Elétricas e CFTV** | Website institucional responsivo desenvolvido para uma empresa de instalações elétricas e sistemas de segurança. *(Em desenvolvimento)* |
-| 🌐 **Landing Pages Responsivas** | Projetos criados para praticar HTML5, CSS3, Flexbox, Grid Layout e responsividade. |
-| 🧠 **Projetos JavaScript** | Aplicações focadas em lógica de programação, manipulação do DOM e JavaScript moderno. |
+| 🚗 **Compensa Álcool ou Gasolina** | Calculadora desenvolvida com JavaScript para ajudar motoristas na escolha entre álcool e gasolina.<br><br>🌐 **Deploy:** https://josemoraisrp.github.io/compensa-lcool-gasolina/<br>📂 **Código:** https://github.com/josemoraisrp/compensa-lcool-gasolina |
+| 💼 **Meu Portfólio** | Portfólio pessoal desenvolvido para apresentar meus projetos, tecnologias e evolução como desenvolvedor.<br><br>🌐 **Deploy:** https://josemoraisrp.github.io/Portifolio_Jose/<br>📂 **Código:** https://github.com/josemoraisrp/Portifolio_Jose |
+| ⚡ **RM Instalações Elétricas e CFTV** | Website institucional desenvolvido para uma empresa de instalações elétricas e sistemas de segurança. *(Em desenvolvimento)* |
+| 📚 **Projetos JavaScript** | Repositório com exercícios e aplicações voltadas para lógica de programação, DOM e JavaScript moderno. |
 
 ---
 
@@ -98,24 +98,25 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Fron
 
 ## 📫 Contato
 
-💼 **LinkedIn**
+<p align="left">
 
+💼 **LinkedIn**  
 https://www.linkedin.com/in/jos%C3%A9-ap-moraes/
 
-🌐 **Portfólio**
-
+🌐 **Portfólio**  
 https://josemoraisrp.github.io/Portifolio_Jose/
 
-🐙 **GitHub**
-
+🐙 **GitHub**  
 https://github.com/josemoraisrp
+
+</p>
 
 ---
 
 <p align="center">
 
-⭐ Obrigado por visitar meu perfil!
+⭐ **Obrigado por visitar meu perfil!**
 
-Acredito que aprender continuamente, compartilhar conhecimento e desenvolver projetos práticos são os caminhos para construir uma carreira sólida em tecnologia.
+Sempre aberto para aprender, colaborar e construir soluções através da tecnologia.
 
 </p>
