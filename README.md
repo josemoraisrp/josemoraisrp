@@ -18,11 +18,7 @@ Sempre aprendendo, evoluindo e transformando ideias em soluções.
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemoraisrp&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemoraisrp&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josemoraisrp&show_icons=true&theme=github_dark" height="170"/>
