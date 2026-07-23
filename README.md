@@ -25,11 +25,9 @@ Sempre aprendendo, evoluindo e transformando ideias em soluções.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=josemoraisrp&theme=github-dark&hide_border=true"/>
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josemoraisrp&show_icons=true&theme=github_dark" height="170"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=josemoraisrp&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josemoraisrp&layout=compact&theme=github_dark" height="170"/>
 </p>
 
 ---
