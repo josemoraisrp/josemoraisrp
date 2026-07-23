@@ -1,15 +1,3 @@
-<h1 align="center">👋 Olá! Eu sou o José Moraes</h1>
-
-<p align="center">
-💻 <strong>Desenvolvedor Front-End em formação</strong><br>
-Construindo projetos práticos com HTML, CSS, JavaScript e React, sempre buscando evoluir tecnicamente e criar soluções úteis.
-</p>
-
-<p align="center">
-🚀 Apaixonado por tecnologia • Aprendizado contínuo • Código limpo
-</p>
-
----
 
 <h1 align="center">👋 Olá! Eu sou o José Moraes</h1>
 
