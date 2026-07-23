@@ -1,12 +1,27 @@
-<h1 align="center">👋 Olá! Eu sou o José AP. Moraes</h1>
+<h1 align="center">👋 Olá! Eu sou o José Moraes</h1>
 
 <p align="center">
-🎯 Desenvolvedor Front-End em transição de carreira, apaixonado por tecnologia e por transformar ideias em interfaces funcionais e responsivas.
+💻 <strong>Desenvolvedor Front-End em formação</strong><br>
+Construindo projetos práticos com HTML, CSS, JavaScript e React, sempre buscando evoluir tecnicamente e criar soluções úteis.
+</p>
+
+<p align="center">
+🚀 Apaixonado por tecnologia • Aprendizado contínuo • Código limpo
 </p>
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+## 🚀 Sobre mim
+
+Sou um desenvolvedor Front-End em formação, apaixonado por tecnologia e em constante evolução.
+
+Atualmente estudo **HTML, CSS, JavaScript, React, Node.js e Git**, aplicando esses conhecimentos em projetos práticos para fortalecer minha base técnica e desenvolver soluções voltadas para problemas reais.
+
+Meu objetivo é conquistar uma oportunidade como **Desenvolvedor Front-End Júnior ou Estagiário**, onde eu possa aprender continuamente, colaborar com equipes e contribuir para o desenvolvimento de aplicações de qualidade.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -15,29 +30,59 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🛠️ Projetos em Destaque
+## 📂 Projetos em Destaque
 
-- [🔗 Compensa Álcool ou Gasolina](https://josemoraisrp.github.io/compensa-lcool-gasolina/)
-  > Calculadora simples que ajuda motoristas a saber se vale mais a pena abastecer com álcool ou gasolina.
+🔹 **Compensa Álcool ou Gasolina**  
+Calculadora que auxilia motoristas na escolha entre álcool e gasolina.
 
----
+🔹 **RM Instalações Elétricas e CFTV** *(Em desenvolvimento)*  
+Website institucional desenvolvido para uma empresa de instalações elétricas e sistemas de segurança.
 
-### 📚 Sobre mim
+🔹 **Landing Pages Responsivas**  
+Projetos desenvolvidos para praticar HTML, CSS e responsividade.
 
-Sou ex-operador de máquinas em transição para a área de desenvolvimento web. Atualmente estudando **HTML, CSS, JavaScript, React e Node.js**, com projetos práticos focados em resolver problemas reais e aprender com a prática.
-
-Estou em busca de oportunidades como **desenvolvedor front-end júnior**, contribuindo com código limpo, proatividade e vontade de aprender.
-
----
-
-### 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-ap-moraes/)
-- 🧑‍💻 GitHub: [@josemoraisrp](https://github.com/josemoraisrp)
+🔹 **Projetos JavaScript**  
+Aplicações voltadas para lógica de programação e manipulação do DOM.
 
 ---
 
-⭐️ **Sinta-se à vontade para explorar meus repositórios, deixar sugestões, ou me chamar para colaborar em algum projeto!**
+## 📚 Atualmente estudando
+
+- JavaScript Moderno (ES6+)
+- React
+- Node.js
+- Git e GitHub
+- Desenvolvimento Web
+- Boas práticas de Front-End
+
+---
+
+## 🎯 Objetivos
+
+- 📌 Evoluir continuamente como Desenvolvedor Front-End.
+- 📌 Construir projetos cada vez mais completos.
+- 📌 Conquistar minha primeira oportunidade na área de tecnologia.
+- 📌 Contribuir para projetos reais e crescer profissionalmente.
+
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/josé-ap-moraes/
+
+🐙 **GitHub:**  
+https://github.com/josemoraisrp
+
+🌐 **Portfólio:**  
+https://josemoraisrp.github.io/Portifolio_Jose/
+
+---
+
+⭐ **Obrigado por visitar meu perfil!**
+
+Acredito que aprender continuamente, compartilhar conhecimento e desenvolver projetos práticos são os caminhos para construir uma carreira sólida em tecnologia.
