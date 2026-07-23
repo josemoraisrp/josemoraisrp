@@ -18,8 +18,6 @@ Construindo projetos práticos com HTML, CSS, JavaScript e React.
 
 ## 🚀 Sobre mim
 
-## 🚀 Sobre mim
-
 Sou um desenvolvedor Front-End em formação, apaixonado por tecnologia e em constante evolução.
 
 Atualmente estudo **HTML, CSS, JavaScript, React, Node.js e Git**, aplicando esses conhecimentos em projetos práticos para fortalecer minha base técnica e desenvolver soluções voltadas para problemas reais.
