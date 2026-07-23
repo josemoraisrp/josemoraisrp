@@ -11,6 +11,25 @@ Construindo projetos práticos com HTML, CSS, JavaScript e React, sempre buscand
 
 ---
 
+<h1 align="center">👋 Olá! Eu sou o José Moraes</h1>
+
+<p align="center">
+💻 <strong>Desenvolvedor Front-End em formação</strong><br>
+Construindo projetos práticos com HTML, CSS, JavaScript e React.
+</p>
+
+<p align="center">
+🚀 Apaixonado por tecnologia • Aprendizado contínuo • Código limpo
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josemoraisrp&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor Front-End em formação, apaixonado por tecnologia e em constante evolução.
